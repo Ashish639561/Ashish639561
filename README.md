@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Ashish639561
-- 👀 I’m interested in ... data science and artificial intelligence
-- 🌱 I’m currently learning python and data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I'm Ashish Singh
+🔍 **Data Scientist & AI Enthusiast** passionate about turning data into actionable insights and intelligent systems.  
+
+💻 **Skills & Expertise:**  
+- **Programming:** Python,SQL  
+- **Libraries & Frameworks:** Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn  
+- **Specialties:** Machine Learning, NLP, Computer Vision, Data Visualization  
+
+🌱 Currently exploring generative AI and deep learning for real-world applications.  
+🚀 Open to collaborations on exciting data science and AI projects!  
+
+📫 Let's connect: [later....]  
+
+🌟 "The best way to predict the future is to create it." – Abraham Lincoln
+
 
 <!---
 Ashish639561/Ashish639561 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
